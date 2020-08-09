@@ -1,15 +1,13 @@
 #
-sudo: false
-language: python
-python:
-  - "2.7"
-  - "3.5"
-  - "3.6"
+sudo: required
+dist: bionic
+os: linux
+language: generic
 
 cache: false
 
 install:
-  - python setup.py install
+  - sudo python3 setup.py install
 
 script:
-  - python test.py
+  - python3 test.py

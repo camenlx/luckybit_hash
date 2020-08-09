@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/camenlx/luckybit_hash.svg?branch=master)](https://travis-ci.org/camenlx/luckybit_hash)
 luckybit_hash (python) v1.3.1
 ===========================
 

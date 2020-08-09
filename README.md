@@ -1,7 +1,7 @@
-zeroone_hash (python) v1.3.1
+luckybit_hash (python) v1.3.1
 ===========================
 
-Python module for ZeroOne's Neoscrypt hashing.
+Python module for luckybit's Neoscrypt hashing.
 
 
 Install
